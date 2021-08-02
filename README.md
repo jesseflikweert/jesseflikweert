@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jesseflikweert
+- 👀 I’m interested in engineering software with as less Technical Debt as possible.
+- 🌱 I’m currently learning Software Science on an academic level at Radboud University.
+- 💞️ I’m looking to collaborate on Open Source projects.
+- 📫 You can reach me by visiting https://jesseflikweert.nl
