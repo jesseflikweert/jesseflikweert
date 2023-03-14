@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @jesseflikweert
-- 📫 You can reach me by visiting https://jesseflikweert.nl
+- 🪪 I'm also using @jesseflikweertfonq
+- 📫 My homepage is https://jesseflikweert.nl
