@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @jesseflikweert
-- 🪪 I'm also using @jesseflikweertfonq
+- 👋 Hi, I’m Jesse Flikweert.
 - 📫 My homepage is https://jesseflikweert.nl
+- 🪪 I've previously used [@jesseflikweertfonq](https://github.com/jesseflikweertfonq)
